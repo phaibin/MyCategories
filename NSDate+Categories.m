@@ -2,7 +2,6 @@
 //  NSDate+Categories.m
 //  DDCoupon
 //
-//  Created by Ryan Wang on 11-3-31.
 //  Copyright 2011 __MyCompanyName__. All rights reserved.
 //
 
